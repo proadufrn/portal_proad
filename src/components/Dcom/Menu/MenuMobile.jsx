@@ -454,7 +454,6 @@ const Navbar = (props) => {
           <div className='grid-contatos'>
             <ContatoModal nome="Andrea Lopes" emailPrimario="andrea.lopes@ufrn.br" telefone="(84) 99120-7227" />
             <ContatoModal nome="Diego Brito" emailPrimario="diego.brito@ufrn.br" telefone="(84) 99660-9085" />
-            <ContatoModal nome="Leonardo Belchior" emailPrimario="leonardo.belchior@ufrn.br" telefone="(84) 99404-3237" />
             <ContatoModal nome="Paulo Pereira" emailPrimario="paulo.jose.pereira@ufrn.br" telefone="(84) 99952-6209" />
             <ContatoModal nome="Klayton Lima" emailPrimario="klayton.figueiredo@ufrn.br" telefone="(84) 99854-2266" />
           </div>
