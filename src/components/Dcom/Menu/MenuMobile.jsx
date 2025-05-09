@@ -401,6 +401,10 @@ const Navbar = (props) => {
             <ContatoModal nome='Thiago Correia (Substituto)' emailPrimario="thiago.correia@ufrn.br" telefone="(84) 99639-6314" />
           </div>
           <h1 className='titulo-atendimento'>Equipe Elaboração de Edital</h1>
+          <div className='grid-contatos'>
+              <contatoModal nome='Leonardo Belchior' emailPrimario="leonardo.belchior@ufrn.br" telefone="(84) 99404-3237" />
+          </div>
+
 
           <div className='grid-contatos'>
             <ContatoModal nome='Stefferson Sarthour' emailPrimario="stefferson.sarthour@ufrn.br" telefone="(84) 99629-6551" />

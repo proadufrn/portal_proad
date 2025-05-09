@@ -494,7 +494,9 @@ const Menu = (props) => {
                             </div>
 
                             <h1 className='titulo-atendimento'>Equipe Elaboração de Edital</h1>
-
+                            <div className='grid-contatos'>
+                                <contatoModal nome='Leonardo Belchior' emailPrimario="leonardo.belchior@ufrn.br" telefone="(84) 99404-3237" />
+                            </div>
 
 
                             <div className='grid-contatos'>
