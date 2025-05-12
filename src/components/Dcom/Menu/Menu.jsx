@@ -546,7 +546,7 @@ const Menu = (props) => {
 
                             <ContatoModal nome="Bráulio Costa (Substituto)" emailPrimario="braulio.costa@ufrn.br" telefone="(84) 99193-6375" />
 
-                            <h1 className='titulo-atendimento'>Pregoeiros</h1>
+                            <h1 className='titulo-atendimento'>Agentes de Contratação / Pregoeiros</h1>
 
                             <div className='grid-contatos'>
                                 <ContatoModal nome="Andrea Lopes" emailPrimario="andrea.lopes@ufrn.br" telefone="(84) 99120-7227" />
