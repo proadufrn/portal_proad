@@ -407,6 +407,8 @@ const Navbar = (props) => {
           <div className='grid-contatos'>
            <ContatoModal nome='Leonardo Belchior' emailPrimario="leonardo.belchior@ufrn.br" telefone="(84) 99404-3237" />
             <ContatoModal nome='Rosana Garcia' emailPrimario="rosana.garcia@ufrn.br" telefone="(84) 98838-0349" />
+            <ContatoModal nome='Éricka Costa' emailPrimario="ericka.jacome@ufrn.br" telefone="(84) 98805-7119" />
+            <ContatoModal nome='Stefferson Sarthour' emailPrimario="stefferson.sarthour@ufrn.br" telefone="(84)99629-6551" />
           </div>
 
 
@@ -423,7 +425,6 @@ const Navbar = (props) => {
 
           <div className='grid-contatos'>
             <ContatoModal nome='Ana Karla Duarte (Importação/Pagamento de taxa de publicação)' emailPrimario="ana.karla.duarte@ufrn.br" telefone="(84) 99921-6898" />
-            <ContatoModal nome='Éricka Jácome (Dispensa de Licitação/Inexigibilidade)' emailPrimario="ericka.jacome@ufrn.br" telefone="(84) 98805-7119" />
           </div>
 
           <h1 className='titulo-atendimento'>Equipe Pesquisa de Preços</h1>
