@@ -315,7 +315,7 @@ const Navbar = (props) => {
         <Menu.Item key="22"><a target="_blank" rel="noopener" href='https://sipac.ufrn.br/public/listaEditais.do?tipo=1&aba=p-comunicados'>Editais Abertos</a></Menu.Item>
         <Menu.Item key="23">  <a onClick={() => openModal(
           'Agenda do Diretor ', <>
-          <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FFortaleza&src=Mzc0YzI2MDlhMmJhNDUwNGFmOTIzNzNlMmU2MGZmMWE5NTE3YmUzZmJlMDRlNGE4M2EyOTUyYjJlOWYxZmI4OUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23F09300" style={{ border: 0 }} width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+          <iframe src="https://calendar.google.com/calendar/embed?src=c_891c9e013e75fe2b2feed6a2eab5654d8ca612a4d0ff724d945fcd6c0218a3d0%40group.calendar.google.com&ctz=America%2FRecife" style={{ border: 0 }} width="100%" height="600" frameborder="0" scrolling="no"></iframe>
         </>
         )}>
           Agenda do Diretor
